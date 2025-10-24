@@ -17,12 +17,13 @@ To develop a simple program that accepts students’ marks, calculates their ave
 - 
 **How to Run**
 
-This program requires Python 3 to run.
+1. Make sure Python is installed (Python 3.x)
+2. Run the file in terminal:
+3. Enter the number of subjects and marks when prompted.
 
-1.  *Save the file:* Ensure gradecalculator.py is saved on your computer.
-2.  *Open a terminal/command prompt* in the directory where the file is saved.
-3.  *Run the script* using the following command:
-    bash
-    python gradecalculator.py
-    
-4.  The program will then prompt you to enter the number of subjects and the marks for each.
+## Tools and Libraries Used
+- Python 3
+- GitHub Issues and Projects for management
+
+## Contributors
+- Aparna Arunkumar — Project Creator and Developer
